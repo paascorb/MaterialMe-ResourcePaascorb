@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaterialMe-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/MaterialMe-Starter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MaterialMe-Starter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MaterialMe-Starter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaterialMePaascorb.iml" filepath="$PROJECT_DIR$/.idea/modules/MaterialMePaascorb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MaterialMePaascorb.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MaterialMePaascorb.app.iml" />
     </modules>
   </component>
 </project>
